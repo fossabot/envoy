@@ -1,4 +1,5 @@
 ![Envoy Logo](https://github.com/envoyproxy/artwork/blob/master/PNG/Envoy_Logo_Final_PANTONE.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstarzha%2Fenvoy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstarzha%2Fenvoy?ref=badge_shield)
 
 [C++ L7 proxy and communication bus](https://www.envoyproxy.io/)
 
@@ -83,3 +84,7 @@ email to acknowledge your report, and we'll send an additional email when we've 
 positively or negatively.
 
 For further details please see our complete [security release process](SECURITY_RELEASE_PROCESS.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstarzha%2Fenvoy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstarzha%2Fenvoy?ref=badge_large)
